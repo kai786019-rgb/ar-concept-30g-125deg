@@ -1,2 +1,2 @@
-# ar-concept-30g-125deg
-Idea for 30g/125° AR glasses. Looking for one partner to explore feasibility together. No technical background.
+ar-concept-30g-125deg
+This is a conceptual proposal for a new AR system. My goal is to see if we can realize 30g AR glasses with a 125-degree field of view. All technical details are in the attached PDF. I have the architecture, but no engineering background. I am looking for only one partner (Optics, FPGA, or Linux Kernel) to discuss feasibility and work together. Please check the PDF for details.
